@@ -17,5 +17,5 @@ You are a systems analyst at a midsized apparel and accessories retailer. The re
 
 The management seeks a digital transformation strategy to consolidate data, automate inventory processes, deliver a seamless omnichannel experience, and prepare for expansion to 100+ stores within the next two years.
 
-The final project: 
+The final project: IBM_Systems_Analyst/Final project_template.pdf (https://github.com/guches/Capstone_Projects/blob/main/IBM_Systems_Analyst/Final%20project_template.pdf) 
 
