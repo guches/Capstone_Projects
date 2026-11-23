@@ -14,6 +14,25 @@ Scenario: The scenario describes a customer who returns to an auto parts store b
 Actor: Customer (Auto Parts Buyer)
 Goal: Replace a defective auto part recently purchased.
 
+Basic flow
+Customer requests service
+The customer contacts the auto parts store—either in person, by phone, or through an online portal—and reports that the part is defective.
+
+Customer provides purchase details
+The customer supplies their order number or receipt, enabling the store system or clerk to validate the purchase.
+
+Store verifies defect claim
+The clerk inspects the physical part or reviews digital evidence (e.g., photos or a description if the request is online).
+
+System checks inventory
+The system confirms whether an identical or equivalent replacement part is currently in stock.
+
+Replacement is issued
+If the replacement item is available, the clerk initiates the replacement transaction and provides the new part to the customer.
+
+Confirmation provided
+The system generates a replacement confirmation, such as a printed receipt or automatic email.
+
 
 
 
