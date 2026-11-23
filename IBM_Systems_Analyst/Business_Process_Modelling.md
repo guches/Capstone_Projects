@@ -33,7 +33,7 @@ If the replacement item is available, the clerk initiates the replacement transa
 Confirmation provided
 The system generates a replacement confirmation, such as a printed receipt or automatic email.
 
-Final project presentation IBM_Systems_Analyst/Final_Project_Defective_Part_Replacement.pdf 
+Final project presentation [IBM_Systems_Analyst/Final_Project_Defective_Part_Replacement.pdf ](https://github.com/guches/Capstone_Projects/blob/main/IBM_Systems_Analyst/Final_Project_Defective_Part_Replacement.pdf)
 
 
 
