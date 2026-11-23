@@ -54,4 +54,4 @@ Describe the metrics to be monitored (e.g., error rates, uptime) and your plan f
 8. Non-functional requirements and performance plan
 Define performance targets, monitoring metrics (Golden Signals), and optimization strategies across the database, application, and infrastructure layers to ensure the platform meets reliability and responsiveness requirements during both normal and peak traffic conditions.
 
-Final Project: 
+Final Project: [IBM_Systems_Analyst/Next_Care_Deployment.pd](https://github.com/guches/Capstone_Projects/blob/main/IBM_Systems_Analyst/Next_Care_Deployment.pdf)f
